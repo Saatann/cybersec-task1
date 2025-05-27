@@ -33,7 +33,7 @@ This command provides a complete overview of all open TCP ports on the target sy
 
 After identifying open ports, a more detailed scan was conducted to determine the services running on these ports and their versions: 
 
-nmap -sV -p 135,902,912 192.168.135.1 
+nmap -sV -p 135,902,912 192.168.xxx.x
  
 
 Explanation of the command: 
