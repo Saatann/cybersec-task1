@@ -25,7 +25,7 @@ nmap: Invokes the Nmap tool.
 
 -p-: Instructs Nmap to scan all 65,535 TCP ports. 
 
-192.168.135.1: Specifies the target IP address. 
+192.168.xxx.x: Specifies the target IP address. 
 
 This command provides a complete overview of all open TCP ports on the target system. 
 
@@ -42,7 +42,7 @@ Explanation of the command:
 
 -p 135,902,912: Specifies the ports to scan. 
 
-192.168.135.1: Specifies the target IP address. 
+192.168.xxx.x: Specifies the target IP address. 
 
 This scan provides detailed information about the services running on the specified ports. 
 
@@ -105,7 +105,7 @@ Restrict access to trusted IP addresses.
 
 Implement strong authentication mechanisms. 
 
-Regularly update VMware products to patch known vulnerabilities.Wikipedia 
+Regularly update VMware products to patch known vulnerabilities.
 
 Port 912 – APEX Mesh / VMware Authentication Daemon 
 
