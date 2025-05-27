@@ -1,0 +1,30 @@
+From: PayPal Support <support@secure-paypal-verification.com>
+To: user@example.com
+Subject: Urgent: Suspicious Activity Detected on Your Account
+Date: Mon, 27 May 2025 10:14:32 -0500
+Reply-To: securealert@outlook-security-login.com
+MIME-Version: 1.0
+Content-Type: text/html
+
+Dear Customer,
+
+We have detected **suspicious login attempts** from a foreign IP address on your PayPal account. As a **security precaution**, we have temporarily limited your account access.
+
+Please verify your identity within **24 hours** to prevent permanent suspension of your PayPal account.
+
+Click the secure link below to verify your account:
+👉 [https://www.paypal.com/login](http://paypal.secure-update-login.ru/account-verify)
+
+Attached: invoice_document.pdf
+
+Failure to comply will result in the **termination of your PayPal account** due to security risks.
+
+Thank you for your prompt attention.
+
+Sincerely,  
+PayPal Account Security Team
+
+---
+
+CONFIDENTIALITY NOTICE: This message contains confidential information intended only for the recipient.
+
